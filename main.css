@@ -1,0 +1,35 @@
+@font-face{
+    
+    font-family:grinched;
+    src: url(GrinchedRegular.ttf);
+}
+
+
+html {
+    
+    background: white;
+    background-image: url(ILBIKTCKM-new-02.png);
+    background-size: 100%;
+    
+    cursor: url(https://cur.cursors-4u.net/others/oth-7/oth662.ani), url(https://cur.cursors-4u.net/others/oth-7/oth662.png), auto !important;
+    
+}
+
+body {
+    
+    text-align:center;
+
+}
+
+img {
+    height:300px;
+    width: 25em;
+    
+}
+
+
+h1 {
+    
+     font-family:grinched;
+     font-size: 250px
+}
